@@ -7,6 +7,6 @@ class MainHome extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text('data');
+    return Text('This is Main Home');
   }
 }
